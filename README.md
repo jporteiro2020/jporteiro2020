@@ -2,7 +2,7 @@
 
 ## Presentación:
 
-Soy Jonatan Porteiro, soy desarrollador y tester de software. Me gusta mucho programar, tengo conocimientos en lenguajes como Java, JavaScript, C# y estoy aprendiendo python de forma autodidacta. Y en cuanto a frontend, además de CSS, HTML, Bootstrap, etc, recientemente estoy incursionando en React gracias al curso de [Programación Fullstack](https://senpaiacademy.com/uy/cursos/programacion/full-stack-developer/) que estoy haciendo en [Senpai Academy](https://senpaiacademy.com/uy/). 
+Soy [Jonatan Porteiro](https://www.linkedin.com/in/jonatan-porteiro/), soy desarrollador y tester de software. Me gusta mucho programar, tengo conocimientos en lenguajes como Java, JavaScript, C# y estoy aprendiendo python de forma autodidacta. Y en cuanto a frontend, además de CSS, HTML, Bootstrap, etc, recientemente estoy incursionando en React gracias al curso de [Programación Fullstack](https://senpaiacademy.com/uy/cursos/programacion/full-stack-developer/) que estoy haciendo en [Senpai Academy](https://senpaiacademy.com/uy/). 
 Y de vez en cuando hago algún pequeño desarrollo y lo voy subiendo aquí, así que cualquier sugerencia para mi repositorio me pueden contactar por aquí: [Linkedin](https://www.linkedin.com/in/jonatan-porteiro/)
 
 ## Contenido del repositorio:
