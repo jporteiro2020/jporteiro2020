@@ -9,8 +9,6 @@ Y de vez en cuando hago algún pequeño desarrollo y lo voy subiendo aquí, por 
 
 Van a ver que algunos repositorios son de cursos que realicé o estoy realizando, pero en su mayoría son de mi propia autoría, porque fueron proyectos a elección de cada persona, por ejemplo, en [Senpai Academy](https://senpaiacademy.com/uy/), las evaluaciones consistieron en entregar un proyecto hecho con NodeJS y React, y en mi caso desarrollé un pequeño e-commerce.
 
-Como comentaba más arriba, si quieren hacer sugerencias, me pueden contactar por aquí 🙌: jonatan.porteiro@protonmail.com
-
 ## Trabajo y estudios:
 Trabajo como Tester de Software, cuanto con más de 6 años de experiencia en el área. En las empresas en las cuales estuve y estoy trabajando, me encargué de realizar pruebas en sus princpales productos y clientes.
 Tuve la oportunidad de gestionar varios proyectos de testing, lo cual me ayudó a crecer como profesional y como persona también.
